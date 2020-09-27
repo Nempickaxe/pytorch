@@ -2,6 +2,9 @@
   "notebooks": {
     "logistic_regression.ipynb": {
       "slug": "0f9e5e63a3cd461eb0709dd48ead68ae"
+    },
+    "mnist.ipynb": {
+      "slug": "0f9e5e63a3cd461eb0709dd48ead68ae"
     }
   }
 }
